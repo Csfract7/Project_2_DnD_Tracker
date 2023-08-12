@@ -135,13 +135,13 @@ You will have a maximum of 7 minutes to present your project following these gui
 
 ## Project Proposal
 
-Create an issue in this repo using the [**Project Proposal** issue template](https://git.generalassemb.ly/seirfx-minerva/project-2-NEM/issues/new/choose) and submit it before the proposal submission deadline **Tuesday Aug 15th 6:30PM PDT**, start of class.  Make sure you complete **all of the prompts**. 
+Create an issue in this repo using the [**Project Proposal** issue template](https://git.generalassemb.ly/seirfx-minerva/project-2-NEM/issues/new?assignees=nicolehamilton%2Ckatie-pestotnik&labels=pending+review&template=proposal.md&title=Your+Name) and submit it before the proposal submission deadline **Tuesday Aug 15th 6:30PM PDT**, start of class.  Make sure you complete **all of the prompts**. 
 
 Your proposal will be reviewed by the instructor team who will communicate feedback with you directly.
 
 ## Project Submission
 
-Create an issue in this repo using the [**Project Submission** issue template](https://git.generalassemb.ly/seirfx-minerva/project-2-NEM/issues/new/choose) and submit it before the presentation deadline **Saturday, Aug 26th, by 10AM PDT**, start of class. Make sure you complete **all of the prompts**. You will need to give us the link to your PERSONAL Github project repo as well as the deployed Github Pages link. 
+Create an issue in this repo using the [**Project Submission** issue template](https://git.generalassemb.ly/seirfx-minerva/project-2-NEM/issues/new?assignees=nicolehamilton%2Ckatie-pestotnik&labels=pending+review&template=project_submission.md&title=Your+Name) and submit it before the presentation deadline **Saturday, Aug 26th, by 10AM PDT**, start of class. Make sure you complete **all of the prompts**. You will need to give us the link to your PERSONAL Github project repo as well as the deployed Github Pages link. 
 
 Attendance and submitting the project submission issue ticket will be required in order to present during class and be counted as present for the day.
 
