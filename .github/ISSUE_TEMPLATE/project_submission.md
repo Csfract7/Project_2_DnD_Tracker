@@ -11,7 +11,7 @@ assignees:
 
 Student Name:
 
-Game Name:
+App Name:
 
 GitHub Repository Link:
 
