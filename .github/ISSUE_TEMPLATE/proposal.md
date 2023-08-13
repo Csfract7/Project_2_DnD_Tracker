@@ -12,7 +12,7 @@ assignees:
 > A name for your Project  
 
 ## Project Description
-> A short description of your game.
+> A short description of your project.
 
 ## Wire Frames
 > Copy and paste or drag and drop your images here. If you need help with markdown syntax, look to [github's docs on markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -27,7 +27,7 @@ assignees:
 > Give us your publically created trello board link here.
 
 ### MVP Goals
-> What are the minimum features needed in your game to still be a playable? Put that here.
+> What are the minimum features needed in your app to make it functional? Put that here. Include full CRUD and RESTful routing.
 
 ### Stretch Goals
 > Required to put a few
