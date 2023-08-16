@@ -1,7 +1,7 @@
 ---
 name: Project Proposal
 about: Project 2 Proposal Template
-title: Your Name
+title: Clayton
 labels: ['pending review']
 assignees: 
     - nicolehamilton
@@ -9,10 +9,10 @@ assignees:
 ---
 
 ## Project Choice (Tell us which project you're doing!)
-> A name for your Project  
+> DND 5E Ability Tracker  
 
 ## Project Description
-> A short description of your project.
+> This ability tracker will allow the player to collect information from all published Dungeons and Dragons 5th edition books and compile them into a list for their specific character or the characters of the players should the user be a game master. This will allow the infomation required to play to be at the fingertips of the user and allow the user to remember all the options they have at their disposal to make the game as engaging as possible. 
 
 ## Wire Frames
 > Copy and paste or drag and drop your images here. If you need help with markdown syntax, look to [github's docs on markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -21,13 +21,45 @@ assignees:
 > Copy and paste or drag and drop your images here. If you need help with markdown syntax, look to [github's docs on markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## User Stories
-> Add user stories following the _As a [type of user], I want [what the user wants], so that [what it helps accomplish]_ format. Read more about user stories [here](https://www.atlassian.com/agile/project-management/user-stories).
+> MVP: As a player, I want to be able to import spells or abilities to add to a list so I can keep track of them while playing
+
+MVP: As a player, I want to be able to edit spells or abilities to truncate or add information.
+
+MVP: As a player, I want to be able to delete spells or abilities to clean up my existing list to make it as streamlined as possible. 
+
+MVP: As a player I want to see the names and descriptions of each of these imported features to have all the information.
+
+MVP: As a player I want to search what a spell or ability does without adding it to my list to get a better grasp on different rules. 
+
+MVP: As a player/ gamemaster, I would like to be able to title my list.
+
+As a player/gamemaster, I want to be able to save lists for later use. 
+
+As a player/ gamemaster, I want to be able to know where a spell/ ability came from. I.e What class, book, page, etc. 
+
+As a player/gamemaster, I want to navigate multiple lists I have made and saved and search by the title I have named them.
 
 ## Trello Board
-> Give us your publically created trello board link here.
+> [https://trello.com/b/2pXvulBQ/project-2](url)
 
 ### MVP Goals
-> What are the minimum features needed in your app to make it functional? Put that here. Include full CRUD and RESTful routing.
+> MVP: As a player, I want to be able to import spells or abilities to add to a list so I can keep track of them while playing
+
+MVP: As a player, I want to be able to edit spells or abilities to truncate or add information.
+
+MVP: As a player, I want to be able to delete spells or abilities to clean up my existing list to make it as streamlined as possible. 
+
+MVP: As a player I want to see the names and descriptions of each of these imported features to have all the information.
+
+MVP: As a player I want to search what a spell or ability does without adding it to my list to get a better grasp on different rules. 
+
+MVP: As a player/ gamemaster, I would like to be able to title my list. 
+
 
 ### Stretch Goals
-> Required to put a few
+> As a player/gamemaster, I want to be able to save lists for later use. 
+
+As a player/ gamemaster, I want to be able to know where a spell/ ability came from. I.e What class, book, page, etc. 
+
+As a player/gamemaster, I want to navigate multiple lists I have made and saved and search by the title I have named them.
+
