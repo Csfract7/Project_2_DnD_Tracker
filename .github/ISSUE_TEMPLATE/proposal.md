@@ -18,7 +18,7 @@ assignees:
 > ![20230815_192750](https://media.git.generalassemb.ly/user/49337/files/e1f41120-acf6-4e57-addd-e94b2f2810c2)
 
 ## ERD
-> Copy and paste or drag and drop your images here. If you need help with markdown syntax, look to [github's docs on markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> ![20230815_201718](https://media.git.generalassemb.ly/user/49337/files/5744fee3-a8a6-442c-9cae-a6f5ff1bb932)
 
 ## User Stories
 > MVP: As a player, I want to be able to import spells or abilities to add to a list so I can keep track of them while playing
