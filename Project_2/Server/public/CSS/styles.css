@@ -1,0 +1,152 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li, form {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Set a background image that looks like parchment paper */
+body {
+    background-image: url('../Assets/dnd\ background.jpg'); /* Replace 'parchment.jpg' with your parchment texture image */
+    background-size: cover;
+    font-family: 'Times New Roman', serif;
+}
+
+/* Style the header elements */
+h1, h2, h3 {
+    font-family: 'Goudy Bookletter 1911', serif;
+    color: #5e3818;
+    margin: 0px 0px 15px 0px;
+}
+
+/* Style navigation links */
+nav {
+    background-color: #3b2c19;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffd700;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+/* Style buttons */
+input[type="button"], input[type="submit"] {
+    background-color: #1c1c1c;
+    color: #ffd700;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Style links */
+a {
+
+    color: #cc6300;
+    text-decoration: none;
+    transition: color 0.3s; /* Add a smooth color transition on hover */
+    font-family: 'Fantasy', Papyrus;
+    margin: 100px 100px 0px 0px;
+}
+
+a:hover {
+    color: #ff5100; /* Change link color on hover */
+}
+
+/* Style Spell Name */
+aside {
+
+    color: #cc6300;
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Fantasy', Papyrus;
+}
+
+/* Style Spell Description */
+ul {
+
+    color: #070300;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Fantasy', Papyrus;
+}
+
+/* Style the spell list */
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Style form elements */
+form {
+    color: #cc6300;
+    font-family: 'Fantasy', Papyrus;
+    margin: 20px; /* Add some margin around the form */
+}
+
+form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+form input[type="submit"] {
+    background-color: #1c1c1c;
+    color: #ffd700;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; /* Add smooth transitions for hover */
+}
+
+form input[type="submit"]:hover {
+    background-color: #ffd700; /* Change background color on hover */
+    color: #1c1c1c; /* Change text color on hover */
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+
+/* Style the delete button */
+.delete-button {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Style the edit link */
+#edit-link {
+    display: block; /* Make the link a block element to control margins */
+    margin-top: 20px; /* Add space above the link */
+    margin-bottom: 20px; /* Add space below the link */
+    color: #cc6300;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Fantasy', Papyrus;
+}
+
+#edit-link:hover {
+    color: #ff5100; /* Change link color on hover */
+}
+
+
+
+

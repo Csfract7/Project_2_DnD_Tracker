@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <link rel="stylesheet" href="../CSS/styles.css">
+    <body>
+
+        <aside>
+            <%=spellNames.name; %>   
+        </aside> <br>
+
+        <ul>
+            <%=spellNames.description; %>.
+        </ul>
+        <a href="/spells/<%=spellNames.id; %>/edit" id="edit-link">Edit</a>
+        <nav>
+            <a href="/spells"> Back to Spells Index Page</a>        
+        </nav>
+        
+        <!-- Delete -->
+        <form action="/spells/<%=spellNames.id %>?_method=DELETE" method="POST">
+            <input type="submit" value="DELETE"/>
+        </form>
+    </body>
+</html>
