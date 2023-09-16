@@ -9,7 +9,7 @@ DND 5E Spell Tracker
 
 ☐ Getting Started: 
     Trello: https://trello.com/b/2pXvulBQ/project-2
-    Live Link: Coming Soon!
+    Live Link: https://project-2-dnd-tracker-3776154e0819.herokuapp.com/
 
 ☐ Next Steps: 
     Add in the descriptions from the api. 
